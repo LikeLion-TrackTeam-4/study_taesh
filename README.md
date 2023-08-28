@@ -6,3 +6,4 @@
 - 28270 https://www.acmicpc.net/problem/28270 (부분점수)
 - 1407 https://www.acmicpc.net/problem/1406 
 - 2161 https://www.acmicpc.net/problem/2161
+- 1339 https://www.acmicpc.net/problem/1339 그리디
