@@ -8,3 +8,4 @@
 - 2161 https://www.acmicpc.net/problem/2161
 - 1339 https://www.acmicpc.net/problem/1339 그리디
 - 12865 https://www.acmicpc.net/problem/12865 (진행중)
+- 1149 https://www.acmicpc.net/problem/1149 (진행중)
